@@ -22,7 +22,7 @@ public class GamePanel extends JPanel implements ActionListener{
 	
 	int tijelo = 6;
 	
-	int score = 10;
+	int score = 0;
 	
 	int a,b,c;
 	
